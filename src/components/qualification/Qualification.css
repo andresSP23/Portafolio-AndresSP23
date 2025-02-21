@@ -24,6 +24,7 @@ max-width: 768px;
 .qualification__button:hover{
 
     color: var(--title-color-dark);
+    background-color: #f1c40f;
 
 }
 

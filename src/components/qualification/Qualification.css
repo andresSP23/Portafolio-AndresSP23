@@ -25,6 +25,7 @@ max-width: 768px;
 
     color: var(--title-color-dark);
     background-color: #f1c40f;
+    border-radius: 5px;
 
 }
 
@@ -36,7 +37,8 @@ max-width: 768px;
 
 .qualificaction__active{
 
-    color: var(--title-color-dark);
+    background-color: #f1c40f;
+
 }
 
 .qualification__sections{
